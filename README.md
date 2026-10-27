@@ -16,7 +16,7 @@ Within my profile, you will find examples of my work done within C++, Native Com
 ### Physics and Graphics
 - Particle based physics simulations in real-time using C++ with the graphics library called Raylib.
 - Water Wave Simulations performed interactively using Gerstner Waves Model in real-time.
-- Various Graphic Prototypes using WebGL, and WebGPU in order to create prototypes of real-time renderings of graphic content.
+- Various Graphic Prototypes using WebGL, Python/C/C++ Libraries, and other types of engines or software in order to create prototypes of real-time renderings of graphic content.
 - Numerical Simulations and Efficient Computations that allow these processes to run smoothly at the highest level possible.
 
 ### Developer Tooling and Infrastructure
